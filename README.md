@@ -16,7 +16,7 @@ Características principales - Aplicación web construida con ASP.NET Core MVC.
   - Filtrado por prioridad y orden para organizar las tareas. 
 ##         
 Instrucciones para ejecutar el proyecto 
-  1. Clonar el repositorio  -> git clone https://github.com/Sofifdz/ASP.NET-Core.git
+  1. Clonar el repositorio  -> git clone https://github.com/DODIGO10/ASP.NET-Core
   2. Abrir el proyecto -> Abre la solución en Visual Studio 
   3. Configurar la base de datos 
     • Actualiza la cadena de conexión en appsettings.json según tu entorno. 
